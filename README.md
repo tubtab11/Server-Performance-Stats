@@ -36,3 +36,7 @@ Clone or copy the script:
 git clone https://github.com/yourusername/Server-Performance-Stats.git
 cd Server-Performance-Stats
 chmod +x server-stats.sh
+
+## Project Source
+
+This project is part of the [Server Performance Stats project on roadmap.sh](https://roadmap.sh/projects/server-stats)
